@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Iustin 👋
 
-<!--
-**Iustin999/Iustin999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent graduate in Automation and Applied Informatics, with a growing passion for cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+
+### 🔹 Embedded & Robotics
+Projects built using Arduino, ESP32, sensors, actuators, and real-time control systems.  
+📁 [See projects](./embedded-systems)
+
+### 🔹 Cybersecurity (In Progress)
+Tools and scripts related to file integrity, networking, and system security.  
+📁 [See cybersecurity tools](./cybersecurity)
+
+---
+
+## 🏆 Awards & Recognitions
+A collection of diplomas and photos from technical competitions and events.  
+📁 [View achievements](./awards)
+
+---
+
+## 📫 Contact
+- [LinkedIn](http://linkedin.com/in/iustin-schifirnet)  
+- Email: iustin_petre21@yahoo.com
