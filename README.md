@@ -1,23 +1,27 @@
 # Hi, I'm Iustin 👋
 
-Recent graduate in Automation and Applied Informatics, with a growing passion for cybersecurity.
+Currently completing my final year of studies in Automation and Applied Informatics, with a strong interest in industrial automation, particularly PLCs, HMIs, and SCADA systems.
 
 ---
 
 ## 🔧 Projects
 
+### 🔹 PLC & HMI Projects (Rockwell Automation)
+Projects built in Studio 5000 focused on automatic control and regulation.  
+📁 [Explore PLC & HMI projects](https://github.com/iustin999/cybersecurity)
+
 ### 🔹 Embedded & Robotics
 Projects built using Arduino, ESP32, sensors, actuators, and real-time control systems.  
 📁 [See embedded projects](https://github.com/iustin999/embedded-systems)
 
-### 🔹 Cybersecurity (In Progress)
+### 🔹 Cybersecurity
 Tools and scripts related to file integrity, networking, and system security.  
 📁 [Explore cybersecurity projects](https://github.com/iustin999/cybersecurity)
 
 ---
 
-## 🏆 Awards & Recognitions
-A collection of diplomas and photos from technical competitions and events.  
+## 🏆 Awards
+A collection of diplomas and photos from technical events.  
 📁 [View achievements](https://github.com/iustin999/awards)
 
 ---
