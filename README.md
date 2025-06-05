@@ -8,7 +8,7 @@ Currently completing my final year of studies in Automation and Applied Informat
 
 ### 🔹 PLC & HMI Projects (Rockwell Automation)
 Projects built in Studio 5000 focused on automatic control and regulation.  
-📁 [Explore PLC & HMI projects](https://github.com/iustin999/cybersecurity)
+📁 [Explore PLC & HMI projects](https://github.com/Iustin999/PLC-HMI-Projects)
 
 ### 🔹 Embedded & Robotics
 Projects built using Arduino, ESP32, sensors, actuators, and real-time control systems.  
