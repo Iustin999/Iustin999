@@ -15,7 +15,7 @@ Projects built using Arduino, ESP32, sensors, actuators, and real-time control s
 📁 [See embedded projects](https://github.com/iustin999/embedded-systems)
 
 ### 🔹 Cybersecurity
-Tools and scripts related to file integrity, networking, and system security.  
+Educational cybersecurity tools for hashing, port scanning, and secure communication.  
 📁 [Explore cybersecurity projects](https://github.com/iustin999/cybersecurity)
 
 ---
